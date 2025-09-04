@@ -58,12 +58,10 @@ regresi/
 
 ## Video Demonstration
 
-<video width="640" height="360" controls>
-  <source src="regresi.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/PLACEHOLDER/0.jpg)](https://github.com/fajarkurnia0388/regression_story_concept/regresi.mp4)
 
-_Watch the video demonstration: [regresi.mp4](regresi.mp4)_
+> **Note**: Click the thumbnail above to watch the video demonstration.  
+> Direct link: [regresi.mp4](regresi.mp4)
 
 ---
 
