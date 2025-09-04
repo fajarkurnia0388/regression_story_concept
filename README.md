@@ -58,7 +58,12 @@ regresi/
 
 ## Video Demonstration
 
-Watch the video demonstration: [regresi.mp4](regresi.mp4)
+<video width="640" height="360" controls>
+  <source src="regresi.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+_Watch the video demonstration: [regresi.mp4](regresi.mp4)_
 
 ---
 
