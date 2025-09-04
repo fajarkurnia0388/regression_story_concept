@@ -58,7 +58,7 @@ regresi/
 
 ## Video Demonstration
 
-[![Watch the video](https://img.youtube.com/vi/PLACEHOLDER/0.jpg)](https://github.com/fajarkurnia0388/regression_story_concept/regresi.mp4)
+[![Watch the video]](https://github.com/fajarkurnia0388/regression_story_concept/blob/main/regresi.mp4)
 
 > **Note**: Click the thumbnail above to watch the video demonstration.  
 > Direct link: [regresi.mp4](regresi.mp4)
