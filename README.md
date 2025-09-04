@@ -1,5 +1,7 @@
 # Regression - Project Documentation
 
+> **Bahasa Indonesia**: [Lihat versi bahasa Indonesia](README_ID.md) | **English**: This page
+
 ## The Concept of Regression in Fiction
 
 "Regression" in the context of stories or fiction is not a statistical term. Instead, this term refers to the concept of a protagonist returning to the past—whether to childhood, adolescence, or another point in their life—after facing death or tragic events.
@@ -38,8 +40,7 @@
 regresi/
 ├── README.md          # This documentation
 ├── README_ID.md       # Indonesian version
-├── regresi.mp4        # Video demonstration
-└── [other files]
+└── regresi.mp4        # Video demonstration
 ```
 
 ## How to Use
